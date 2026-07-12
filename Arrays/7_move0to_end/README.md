@@ -1,3 +1,9 @@
+Brute: 
+TC
+
+Optimal TC
+
+
 #include <iostream>
 using namespace std;
 int main() {
