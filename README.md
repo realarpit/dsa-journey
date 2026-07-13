@@ -27,7 +27,7 @@ This repository focuses on understanding the complete problem-solving process ra
 
 | Topic               | Problems Solved |
 | ------------------- | --------------: |
-| Arrays              |               0 |
+| Arrays              |               7 |
 | Strings             |               0 |
 | Linked Lists        |               0 |
 | Stacks & Queues     |               0 |
