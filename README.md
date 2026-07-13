@@ -41,7 +41,7 @@ This repository focuses on understanding the complete problem-solving process ra
 | Dynamic Programming |               0 |
 | Tries               |               0 |
 
-**Total Problems Solved:** 0
+**Total Problems Solved:** 7
 
 ---
 
