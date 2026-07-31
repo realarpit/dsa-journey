@@ -7,3 +7,4 @@
 | 001 | Largest Element | Easy | ✅ |
 | 002 | Second largest element | Medium | ✅ |
 | 003 | Two Sum | Easy | ✅ |
+| 004 | Two Sum | Easy | ✅ |
