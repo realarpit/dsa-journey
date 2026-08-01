@@ -9,3 +9,7 @@ sc - O(1)
 optimal
 tc - O(n)
 sc - O(1)
+
+optimal2
+tc - O(n)
+sc - O(1)
