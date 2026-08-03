@@ -5,7 +5,7 @@ int main() {
     int posIndex=0, negIndex=1;
     
     for(int i=0;i<n;i++){
-        if(nums[i]<0){
+        if(arr[i]<0){
             ans[negIndex] = arr[i];  //if arr elements less than 0 then put them at negative indexes
             negIndex += 2;
         }
